@@ -54,14 +54,15 @@ Before using this script, ensure the following dependencies are installed:
             |                                 
             | Wireless (LoRa Waves)          
             |                                 
-            v                                 
-                           +----------------------------+ 
-                           |                            | 
-                           |  Meshtastic Radio (Sender) | 
-                           |   +----------------------+  | 
-                           |   |                      |  | 
-                           |   |  Sends Commands       |  | 
-                           |   |                      |  | 
-                           +----------------------------+  
+            v
+                  
++----------------------------+ 
+|                            | 
+|  Meshtastic Radio (Sender) | 
+|   +----------------------+  | 
+|   |                      |  | 
+|   |  Sends Commands       |  | 
+|   |                      |  | 
++----------------------------+  
 
 ```
